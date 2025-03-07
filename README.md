@@ -1,3 +1,5 @@
+A movie web-app created using React + Vite with Firebase for Authentication
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
